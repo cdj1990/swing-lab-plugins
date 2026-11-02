@@ -1,0 +1,21 @@
+{
+  "name": "swing-lab-pilot",
+  "version": "0.1.0",
+  "description": "Swing Lab의 명시적으로 허용된 스윙을 연결된 Codex 대화에서 분석합니다.",
+  "author": {
+    "name": "Mouse Bronze"
+  },
+  "apps": "./.app.json",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Swing Lab Pilot · GitHub Test",
+    "shortDescription": "Swing Lab 연결 및 근거 기반 분석",
+    "longDescription": "GitHub 마켓플레이스 배포 검증 패키지. 기존 Sites App 접근 권한과 사용자별 연결이 별도로 필요합니다. 다른 개인 계정 인증은 검증 중입니다.",
+    "developerName": "Mouse Bronze",
+    "category": "Other",
+    "capabilities": [],
+    "logo": "./assets/icon.svg",
+    "composerIcon": "./assets/icon.svg",
+    "websiteURL": "https://swing-lab-pilot-1028.regalfrost25.chatgpt.site"
+  }
+}

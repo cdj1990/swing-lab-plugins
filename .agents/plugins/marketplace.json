@@ -1,0 +1,20 @@
+{
+  "name": "swing-lab-plugins",
+  "interface": {
+    "displayName": "Swing Lab Plugins"
+  },
+  "plugins": [
+    {
+      "name": "swing-lab-pilot",
+      "source": {
+        "source": "local",
+        "path": "./plugins/swing-lab-pilot"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Other"
+    }
+  ]
+}
